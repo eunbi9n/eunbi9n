@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **eunbi9n/eunbi9n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE033,100:9CE5FF&text=&animation=twinkling&height=100&w)[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20eunbi's%20Github⚡&height=100&font=Carter+One&color=5A5A5A&size=30&duration=3000&width=830&repeat=false&center=true)](https://git.io/typing-svg)
