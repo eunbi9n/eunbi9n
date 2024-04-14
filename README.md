@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 
 
 ### 📝 Project 📝
-- [42Cabi - 42Seoul 사물함 관리 서비스 ](https://github.com/innovationacademy-kr/42cabi)
-- 교환일기 프로젝트
-- [블루키 뮤직 정산 플랫폼 사이트](https://github.com/Bluekey-Payment-System/BPS-BE)
-- [slack-sentry 라이브러리](https://github.com/Bluekey-Payment-System/slack-sentry)
-
+- [42Seoul 사물함 관리 서비스 - **Cabi**](https://github.com/innovationacademy-kr/42cabi) 
+- [일기를 공유하는 소셜 네트워크 서비스 - **공유일기**](https://github.com/JoHoEunSaE/Exchange_Diary) (공개용, 실제 프로덕션 x)
+- [블루키 뮤직 정산 플랫폼 사이트](https://github.com/Bluekey-Payment-System/BPS-BE) (현재 비공개)
+- [온라인 핑퐁 게임 사이트 - **PongPongPingPong**](https://github.com/42EASY/PongPongPingPong) (개발 중)
